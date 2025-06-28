@@ -1,6 +1,6 @@
 #  Jessica Keating - Portfolio Task
 ​
-[My portfolio site](https://jess-k92.github.io/index.html)
+[My portfolio site](https://jess-keating.github.io/index.html)
 ​
 ## About
 
@@ -24,7 +24,7 @@ There is a profile picutre of myself placed on the header of the site. This rema
 - [X] Implements responsive design principles.
 - [X] Uses semantic HTML.
 
-I have added an About Me page where I have included further information about myself, my experience and skills. This page also has a functioning menu that will take you back to the home page and/or to the other sections on the home page depending on your menu selection. My GitHub repositiry can be found here (https://github.com/Jess-K92/Jess-K92.github.io). Where I have followed best practice to version track my updates and the deployment. Where I have followed best practice to version track my updates and the deployment. Media queries have been included to ensure that the content can be viewed in a easy to read manner that is appealing.
+I have added an About Me page where I have included further information about myself, my experience and skills. This page also has a functioning menu that will take you back to the home page and/or to the other sections on the home page depending on your menu selection. My GitHub repositiry can be found here (https://github.com/jess-keating/jess-keating.github.io). Where I have followed best practice to version track my updates and the deployment. Where I have followed best practice to version track my updates and the deployment. Media queries have been included to ensure that the content can be viewed in a easy to read manner that is appealing.
 
 ### Bonus (optional)
 - [X] Different styles for active, hover and focus states.
