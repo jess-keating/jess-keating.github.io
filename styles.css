@@ -73,8 +73,8 @@ select {
     --text: var(--base-dark);
 
     /*  Toggle Button Styles  */
-    --toggle-top-offset: 16px;
-    --toggle-right-offset: 18px;
+    --toggle-top-offset: 0px;
+    --toggle-right-offset: 15px;
     --toggle-icon-size: 30px;
     --toggle-icon-color: var(--brand);
 
@@ -138,7 +138,7 @@ h6 {} */
 /* style to make style guide */
 
 body {
-    padding: 20px;
+    padding: 25px;
 }
 
 /* brand colours Start */
@@ -267,7 +267,7 @@ h2 {
 .card img {
     width: auto;
     height: 100px;
-    object-fit: cover;
+    object-fit: contain;
     margin-bottom: 15px;
     border-radius: 8px;
 }
@@ -300,6 +300,7 @@ h2 {
 .contact-form label {
     display: block;
     font-weight: bold;
+    color: var(--brand);
 }
 
 .contact-form input,
@@ -387,7 +388,7 @@ footer img {
 }
 
 .hamburger-toggle,
-label {
+.hamburger-toggle label {
     color: var(--toggle-icon-color);
     z-index: 100;
     cursor: pointer;
