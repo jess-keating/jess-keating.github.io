@@ -248,6 +248,7 @@ h2 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 20px;
+    justify-content: center;
 }
 
 .card {
@@ -280,6 +281,20 @@ h2 {
 .card i {
     font-size: 2em;
     margin-bottom: 10px;
+    color: var(--brand);
+}
+
+.card a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.card a:hover {
+    color: inherit;
 }
 
 /* Grid Layout - Skills and Projects end */
